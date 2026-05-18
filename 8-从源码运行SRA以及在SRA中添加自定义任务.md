@@ -1,10 +1,3 @@
----
-title: 教程
-icon: code
-order: 7
-author: Shasnow
----
-
 :::warning
 本章节内容主要面向开发者和高级用户，普通用户可以跳过。
 本章节内容可能会随着SRA版本更新而变化。

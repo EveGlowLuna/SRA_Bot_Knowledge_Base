@@ -1,10 +1,3 @@
----
-title: SRACore 核心模块 API
-order: 5
-icon: box
-author: Shasnow
----
-
 # SRACore 核心模块 API 文档
 此文档介绍 SRA 的核心模块，包括屏幕操作、数据模型和任务框架。
 * 部分内容可能过时，以源码内注释为准。
